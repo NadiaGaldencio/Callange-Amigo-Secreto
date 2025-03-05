@@ -4,15 +4,16 @@
 
 Bem-vindo ao projeto Challenge Amigo Secreto! Este é um aplicativo web simples e interativo que possibilita a realização de sorteios de amigo secreto de forma segura e divertida. Este desafio prático faz parte da formação ALURA Iniciante em Programação G8 - ONE, onde enfrentei desafios como a implementação da função de sorteio e a complexidade de impedir que um participante sorteie a si mesmo.
 
-Índice
-Descrição do Projeto
-Funcionalidades
-Desafios e Soluções
-Tecnologias Utilizadas
-Como Utilizar
-Como Contribuir
-License
-Contato
+Índice:
+Descrição do Projeto;
+Funcionalidades;
+Desafios e Soluções;
+Tecnologias Utilizadas;
+Como Utilizar;
+Como Contribuir;
+License;
+Contato;
+
 Descrição do Projeto
 O projeto Amigo Secreto tem como objetivo facilitar a organização de um amigo secreto, resolvendo dificuldades comuns, como:
 
