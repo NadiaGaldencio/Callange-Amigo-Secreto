@@ -13,7 +13,7 @@ Desafios e Soluções;
 
 Tecnologias Utilizadas;
 
-Como Uzar;
+Como Utilizar;
 
 Como Contribuir;
 
