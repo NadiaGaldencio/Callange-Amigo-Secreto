@@ -6,13 +6,21 @@ Bem-vindo ao projeto Challenge Amigo Secreto! Este é um aplicativo web simples 
 
 Índice:
 Descrição do Projeto;
+
 Funcionalidades;
+
 Desafios e Soluções;
+
 Tecnologias Utilizadas;
-Como Utilizar;
+
+Como Uzar;
+
 Como Contribuir;
+
 License;
+
 Contato;
+
 
 Descrição do Projeto
 O projeto Amigo Secreto tem como objetivo facilitar a organização de um amigo secreto, resolvendo dificuldades comuns, como:
