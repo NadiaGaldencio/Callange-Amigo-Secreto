@@ -1,7 +1,5 @@
 ﻿# Callange-Amigo-Secreto
 
- Challenge Amigo Secreto
-
 Bem-vindo ao projeto Challenge Amigo Secreto! Este é um aplicativo web simples e interativo que possibilita a realização de sorteios de amigo secreto de forma segura e divertida. Este desafio prático faz parte da formação ALURA Iniciante em Programação G8 - ONE, onde enfrentei desafios como a implementação da função de sorteio e a complexidade de impedir que um participante sorteie a si mesmo.
 
 Índice:
@@ -13,7 +11,7 @@ Desafios e Soluções;
 
 Tecnologias Utilizadas;
 
-Como Utilizar;
+Como Utilizar; 
 
 Como Contribuir;
 
@@ -42,6 +40,7 @@ Validação de Número Mínimo: O sorteio só pode ser realizado com três ou ma
 Sorteio Seguro: Implementação de uma função (sortearAmigo) que realiza o sorteio e, com a ajuda de uma validação/reembaralhamento, impede que um participante seja sorteado para si mesmo.
 Consulta Individual: Modificação no HTML permite a criação de um prompt e um botão para consulta do amigo secreto de forma discreta.
 Reinicialização Automática: Após o sorteio, a lista de participantes é limpa, possibilitando uma nova rodada.
+
 Desafios e Soluções
 Durante o desenvolvimento deste projeto, enfrentei dois desafios principais:
 
@@ -54,9 +53,6 @@ Foi necessário desenvolver uma lógica que não apenas realizasse um embaralham
 Impedir que o Amigo Seja Sorteado para Ele Mesmo:
 Esse desafio exigiu uma análise cuidadosa dos arrays e das comparações realizadas. Uma verificação foi implementada para garantir que, ao iterar sobre os nomes, nenhum índice corresponda ao próprio nome. Essa validação é crucial para que a mecânica do amigo secreto funcione corretamente, mantendo o elemento surpresa e a integridade do sorteio.
 
-
-
-
 Modificação no HTML
 Além disso, foi necessário alterar o HTML para incluir um prompt e um botão que permitam ao usuário consultar o amigo secreto de maneira segura e interativa.
 
@@ -64,15 +60,19 @@ Tecnologias Utilizadas
 HTML5: Estrutura básica e elementos de interação (incluindo o prompt e o botão para a consulta).
 CSS3: Estilização e responsividade da interface.
 JavaScript: Lógica principal do sorteio, manipulação do DOM, validações e controle do fluxo da aplicação.
+
 Como Utilizar
+
 Pré-requisitos
 Navegador web moderno (Chrome, Firefox, Edge, etc.).
 Editor de texto ou IDE para alterações no código, se necessário.
-Passo a Passo
-Clone o Repositório:
 
-    • Em seu terminal, execute:
+Passo a Passo
+  
+    • Clone o Repositório:
+Em seu terminal, execute:
 git clone <git@github.com:NadiaGaldencio/Callange-Amigo-Secreto.git>
+    
     • Abra o Projeto:
 
     • Navegue até o diretório clonado e abra o arquivo index.html em seu navegador.
@@ -82,18 +82,12 @@ git clone <git@github.com:NadiaGaldencio/Callange-Amigo-Secreto.git>
     • Utilize o campo de cadastro para inserir os nomes dos participantes. Lembre-se de adicionar pelo menos três nomes para que o sorteio possa ser realizado.
 
     • Realize o Sorteio:
-
 Clique no botão “Sortear” para acionar a função de sorteio, que valida e distribui os nomes garantindo que nenhum participante seja sorteado para si mesmo.
 
-
-
-
     • Consulta do Amigo Secreto:
-
 Após o sorteio, utilize o prompt e o botão de consulta, adicionados à interface para que cada participante descubra discretamente quem é seu amigo secreto.
 
     • Nova Rodada:
-
 Com o término do sorteio, a lista de amigos é automaticamente limpa, permitindo iniciar uma nova rodada de sorteios.
 
 Como Contribuir
@@ -111,9 +105,7 @@ Caso tenha sugestões ou encontre algum problema, sinta-se à vontade para abrir
 
 License
 Este projeto está licenciado sob a = opensource.org
-. Sinta-se livre para utilizar, modificar e distribuir este código de acordo com os termos da licença.
-
-
+Sinta-se livre para utilizar, modificar e distribuir este código de acordo com os termos da licença.
 
 Contato
 Em caso de dúvidas, sugestões ou para mais informações, sinta-se à vontade para entrar em contato:
